@@ -58,10 +58,10 @@ Custom DAX measures were created to enhance analysis, including:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](./1 main.png)
-![Dashboard Screenshot](./2 countries.png)
-![Dashboard Screenshot](./3 athletes.png)
-![Dashboard Screenshot](./4 Ukraine.png)
+![Dashboard Screenshot](./1_main.png)
+![Dashboard Screenshot](./2_countries.png)
+![Dashboard Screenshot](./3_athletes.png)
+![Dashboard Screenshot](./4_Ukraine.png)
 
 ---
 
