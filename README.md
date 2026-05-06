@@ -88,4 +88,4 @@ Custom DAX measures were created to enhance analysis, including:
 ---
 
 ## 📌 Author
-Natalia Patsai  
+Nataliia Patsai  
